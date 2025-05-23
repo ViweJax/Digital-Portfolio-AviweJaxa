@@ -2,6 +2,9 @@ __Digital-Portfolio-AviweJaxa__
 ========
 CREATING AN E-PORTFOLIO
 --------
+#### Aviwe Jaxa
+#### 222208546
+
 ***
 #### INSTRUCTIONS:
 + Create a digital portfolio in GitHub based on the work readiness training.
