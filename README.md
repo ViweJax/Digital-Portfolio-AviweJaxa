@@ -100,6 +100,7 @@ ___
 ##### What did you learn?
 
 #### Evidence
+<img width="1228" height="631" alt="image" src="https://github.com/user-attachments/assets/58ce8202-01bd-4239-8a42-4652c4468ae7" />
 
 ___
 ### INTERVIEW SKILLS 
@@ -113,6 +114,7 @@ ___
 ##### What did you learn?
 
 #### Evidence
+<img width="1248" height="621" alt="image" src="https://github.com/user-attachments/assets/09f277da-603e-44de-ba12-70cccf646a85" />
 
 ___
 ### MOCK INTERVIEW 
@@ -126,7 +128,7 @@ ___
 ##### What did you learn?
 
 #### Evidence
-
+https://github.com/ViweJax/222208546_MockInterview
 ___
 ### PROFESSIONAL NETWORKING
 ___
@@ -139,6 +141,8 @@ ___
 ##### What did you learn?
 
 #### Evidence
+<img width="1216" height="602" alt="image" src="https://github.com/user-attachments/assets/caea66d4-9702-4b7f-9c7a-d762c2d9369c" />
+
 ___
 ### WORKPLACE ETIQUETTE 
 ___
@@ -151,4 +155,6 @@ ___
 ##### What did you learn?
 
 #### Evidence
+<img width="1230" height="639" alt="image" src="https://github.com/user-attachments/assets/aa133e9f-ec4e-49ba-8559-76e674fbd4f5" />
+
 ___
