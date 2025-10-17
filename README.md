@@ -79,4 +79,76 @@ Different ways to write a CV.
 #### Evidence
 ![image](https://github.com/user-attachments/assets/0133e9fd-fa6a-4082-9936-2c8ab8fc2b57)
 ___
+***
+#### INSTRUCTIONS:
++ Second Semester
++ Create a digital portfolio in GitHub based on the work readiness training.
++ The portfolio should be coded using Markdown.
++ Kindly refer to the assessment rubric for a detailed breakdown of what should be included in your digital 
+portfolio.
++ Upload the link to the digital portfolio GitHub link to the Blackboard submission link.
++ STAR Method
+***
+### BUSINESS COMMUNICATION 
+___
+##### What were the challenges?
+
+##### What Goal were you working toward?
+
+##### What did you do to address the situation?
+
+##### What did you learn?
+
+#### Evidence
+
+___
+### INTERVIEW SKILLS 
+___
+##### What were the challenges?
+
+##### What Goal were you working toward?
+
+##### What did you do to address the situation?
+
+##### What did you learn?
+
+#### Evidence
+
+___
+### MOCK INTERVIEW 
+___
+##### What were the challenges?
+
+##### What Goal were you working toward?
+
+##### What did you do to address the situation?
+
+##### What did you learn?
+
+#### Evidence
+
+___
+### PROFESSIONAL NETWORKING
+___
+##### What were the challenges?
+
+##### What Goal were you working toward?
+
+##### What did you do to address the situation?
+
+##### What did you learn?
+
+#### Evidence
+___
+### WORKPLACE ETIQUETTE 
+___
+##### What were the challenges?
+
+##### What Goal were you working toward?
+
+##### What did you do to address the situation?
+
+##### What did you learn?
+
+#### Evidence
 ___
