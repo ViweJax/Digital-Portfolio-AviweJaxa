@@ -120,13 +120,16 @@ ___
 ### MOCK INTERVIEW 
 ___
 ##### What were the challenges?
-
+I participated in a mock interview that focused on behavioral questions commonly asked in professional recruitment settings, These questions required me to reflect on past experiences and apply ctritical thinking skills to communicate effectively. Topics included prioritizing resolving conflict, handling pressure, making decisions and work tasks, managing mistakes and achieving goals, the purpose of the mock interview was to evaluate my readiness for real-world interviews and develop my ability to demonstrate professional competencies through structured responses.
 ##### What Goal were you working toward?
-
+My task was to prepare clear, relevant examples from my academic, work, and personal experiences that reflected my skills, decision-making, and problem-solving abilities. I needed to answer each question concisely and ensure that I described the context, what I needed to accomplish, what actions I took, and what the results were. Additionally, I needed to maintain professional communication, positive body language, and confidence throughout the interview.
 ##### What did you do to address the situation?
-
+For prioritizing tasks, I described a time when multiple deadlines overlapped, and I created a schedule to complete the most urgent work first, which caused me to not give some of my modules the same attention but eventually worked it out.
+For handling mistakes, I reflected on an instance where I miscommunicated a task, took responsibility, and corrected it by clarifying expectations.
+In the conflict scenario, I explained how I resolved a disagreement with a team member by listening, discussing differences calmly, and finding a compromise that benefited the project.
+When discussing risky decisions, I shared an example of stepping out of my comfort zone to take on a new responsibility that later improved my confidence and skills.
 ##### What did you learn?
-
+I learned that I could improve by being more concise with my responses and adding stronger, measurable results to demonstrate the impact of my actions. I also realized the importance of  understanding how to express my experiences confidently, the mock interview was a valuable learning experience that enhanced my communication, critical thinking, and self-presentation skills, it helped me maintain professionalism under interview pressure.
 #### Evidence
 https://github.com/ViweJax/222208546_MockInterview
 ___
