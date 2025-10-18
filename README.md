@@ -92,13 +92,15 @@ portfolio.
 ### BUSINESS COMMUNICATION 
 ___
 ##### What were the challenges?
-
+These covered key areas such as recognizing non-verbal communication, understanding when to use formal language, maintaining an appropriate tone in business emails, observing proper etiquette during virtual meetings, and identifying the overall purpose of effective workplace communication. These exercises helped me apply communication theory to real professional contexts and reflect on how communication influences workplace relationships and productivity.
 ##### What Goal were you working toward?
-
+My goal was to demonstrate an understanding of professional communication standards and apply them appropriately in workplace scenarios, this required me to identify examples of verbal and non-verbal communication, use suitable tone and language for business messages, and understand how communication supports organizational goals. Additionally, I needed to reflect on how technology, such as video conferencing, affects communication etiquette and professionalism.
 ##### What did you do to address the situation?
-
+I learned to use formal language in situations that involve external clients, senior staff, or written business documents to ensure clarity and respect.
+I identified that the tone of a business email should always be polite, clear, and professional, avoiding slang, emotive language, or informality.
+In virtual meetings, I practiced maintaining a tidy and neutral virtual background, dressing appropriately, and keeping my camera on to show engagement.
 ##### What did you learn?
-
+I gained a deeper understanding of how professionalism in communication supports success in the workplace. I improved my ability to adapt language and tone to different audiences and learned how non-verbal cues, such as eye contact, posture, and gestures enhance or hinder message clarity.
 #### Evidence
 <img width="1228" height="631" alt="image" src="https://github.com/user-attachments/assets/58ce8202-01bd-4239-8a42-4652c4468ae7" />
 
