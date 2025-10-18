@@ -150,13 +150,15 @@ ___
 ### WORKPLACE ETIQUETTE 
 ___
 ##### What were the challenges?
-
+I was required to complete a series of workplace etiquette scenarios that focused on professional behavior in different situations. These included how to respond to a rude or offensive email, the importance of punctuality for meetings, handling confidential information responsibly, managing personal cell phone use at work, and communicating appropriately when needing to leave early. These scenarios reflected real workplace challenges and tested my ability to apply professional judgment and ethical standards in practical settings if ever I would have these experiences.
 ##### What Goal were you working toward?
-
+My goal was to demonstrate an understanding of appropriate workplace behavior and decision-making in each situation. I needed to reflect on how professionalism, respect, and communication contribute to maintaining a positive and efficient work environment, the goal was to evaluate how I would respond in these situations while following organizational policies and maintaining integrity.
 ##### What did you do to address the situation?
-
+When faced with a rude or offensive email, I learned it is better to remain calm, avoid emotional reactions, and respond professionally or if the matter is beyond my control it is better to report it through proper channels if necessary.
+For meetings, I recognized the importance of arriving early and being prepared as a sign of respect to the people I am meeting and myself and respect time management.
+Regarding confidential information, I understood that sensitive data must always be protected and shared only with authorized individuals.
 ##### What did you learn?
-
+Completing these scenarios helped me develop a stronger understanding of workplace etiquette and the importance of professional conduct. I learned that professionalism goes beyond simply following rules and not having an opinion, it involves maintaining integrity, respect, and effective communication in all interactions. I also became more aware of how small actions, such as punctuality or courteous communication, can build trust and create a positive workplace culture.
 #### Evidence
 <img width="1230" height="639" alt="image" src="https://github.com/user-attachments/assets/aa133e9f-ec4e-49ba-8559-76e674fbd4f5" />
 
