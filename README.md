@@ -140,13 +140,15 @@ ___
 ### PROFESSIONAL NETWORKING
 ___
 ##### What were the challenges?
-
+I focused on understanding what networking means, how to build and maintain professional relationships and how to avoid common mistakes when connecting with others in a workplace or industry context. The learning activities covered key areas such as the purpose of networking events, effective first steps in creating a network, and how to communicate professionally in these settings.
 ##### What Goal were you working toward?
-
+My task was to develop an understanding of how professional networking contributes to career growth and employability, this included identifying the correct etiquette for networking events, understanding the importance of mutual respect and authenticity in professional relationships and learning how to initiate and maintain meaningful professional connections that could support my future career goals.
 ##### What did you do to address the situation?
-
+I learned that a networking event typically refers to a professional gathering ,such as a seminar, workshop, or conference where individuals connect, share knowledge, and explore career or business opportunities.
+I identified common mistakes to avoid, such as dominating conversations, failing to listen, being overly self-promotional, or neglecting to follow up after meeting new contacts.
+I learned that the first step in creating a professional network is to identify people relevant to my career interests, such as mentors, industry professionals, or peers and making sure to approach them respectfully and professionally.
 ##### What did you learn?
-
+I gained a deeper appreciation for the value of professional networking and how it can influence career success, I learned that effective networking is not about collecting contacts but about building genuine, lasting professional relationships based on respect, communication and mutual benefit.
 #### Evidence
 <img width="1216" height="602" alt="image" src="https://github.com/user-attachments/assets/caea66d4-9702-4b7f-9c7a-d762c2d9369c" />
 
