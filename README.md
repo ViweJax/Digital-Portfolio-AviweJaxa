@@ -108,13 +108,15 @@ ___
 ### INTERVIEW SKILLS 
 ___
 ##### What were the challenges?
-
+These exercises explored important interview skills to answer behavioral questions, understanding the purpose of researching a company, effectively responding to the common “Tell me about yourself” question, and appropriately addressing questions about personal weaknesses, these activities were designed to help me develop confidence and professionalism for real-world job interviews.
 ##### What Goal were you working toward?
-
+My goal was to demonstrate a clear understanding of how to prepare for and perform effectively in interviews, this involved learning how to structure responses, project confidence, and present myself professionally. The objective was to improve my ability to communicate my skills, experience, and personality in a way that aligns with an employer’s expectations and organizational values.
 ##### What did you do to address the situation?
-
+I recognized that researching a company before an interview is essential for understanding its mission, values, and culture, it also allows me to structure my answers to show genuine interest and alignment with the organization’s goals.
+I practiced answering “Tell me about yourself” by creating a concise, professional introduction that highlights my background, key skills, and what makes me a strong fit for the position,avoiding overly personal details.
+For the “greatest weakness” question, I learned that the best approach is to be honest but strategic,choosing a real area for improvement and explaining how I am actively working to develop that skill.
 ##### What did you learn?
-
+These interview skills have enhanced my overall employability by helping me articulate my strengths clearly, handle challenging questions with confidence, and maintain professionalism under pressure,now I feel more prepared to approach real job interviews with clarity, focus, and self-assurance,key qualities for success in the workplace.
 #### Evidence
 <img width="1248" height="621" alt="image" src="https://github.com/user-attachments/assets/09f277da-603e-44de-ba12-70cccf646a85" />
 
