@@ -89,6 +89,10 @@ portfolio.
 + Upload the link to the digital portfolio GitHub link to the Blackboard submission link.
 + STAR Method
 ***
+#### Aviwe Jaxa
+#### 222208546
+
+***
 ### BUSINESS COMMUNICATION 
 ___
 ##### What were the challenges?
